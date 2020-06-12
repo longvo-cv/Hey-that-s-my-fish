@@ -1,5 +1,4 @@
-Project1 involves making "Hey! That's my fish" game using what we know in C (no structs and points). 
-Youtube link: https://youtu.be/zZReUqIgT5g
+Project1 involves making "Hey! That's my fish" game 
 The void main() method consists of declaring variables, placing player and AI on the board, and the 
 actual gameplay. The user input is "row col."
 There is only 1 global variable, which is the gameboard formatted as a 2D array.
